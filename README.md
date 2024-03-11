@@ -16,23 +16,8 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">"You learn how to be a good programmer by being a bad programmer"</h2></summary>
-  </ul>
-</div>
-
-
 <!--Intro start-->
-- 🔭 I’m currently working on **Application for Sports Betting using OddsJam API**
+- 🔭 I’m currently working on **Lexical Analyzer and Syntax Analyzer**
 
 - 🌱 I’m currently learning **Back End Web Development and using APIs**
 
@@ -42,9 +27,6 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-
-  
-
 
 <td width="100%" align="center">
 
@@ -77,7 +59,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,figma,github,html,idea,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,figma,github,html,js,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
