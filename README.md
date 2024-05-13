@@ -16,15 +16,6 @@
   </ul>
 </div>
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Lexical Analyzer and Syntax Analyzer**
-
-- 🌱 I’m currently learning **Back End Web Development and using APIs**
-
-- 💬 Ask me about **Python, JavaScript, HTML/CSS**
-
-- 📫 Feel free to reach me out **jeremherring@gmail.com**
-
 <!--- stats & Trophy (start) -->
 <p align="center">
 
